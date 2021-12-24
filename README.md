@@ -1,1 +1,2 @@
-Some projects that I wrote for arduino
+Some of my projects
+
